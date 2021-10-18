@@ -88,6 +88,14 @@ namespace Prog1_Loops
             // 1) declaration/initialization of loop variable
             // 2) "stop" condition
             // 3) increment loop variable
+
+
+            //declaration
+            //check stop
+            //perform loop
+            //increment loop variable
+            //loop
+
             for (int i = 1; i <= 10; i++)
             {
 
